@@ -2,8 +2,8 @@
 This is our Mini-Project for CS1015 (Introduction to Data Science and Artificial Intelligence).
 
 ## Contributors
-- @shinghao - Data Preparation & Cleaning, Exploratory Analysis
-- @leechunyang98 - Data Resampling, Machine Learning Models
+- @shinghao (Soh Shing Hao) - Data Preparation & Cleaning, Exploratory Analysis
+- @leechunyang98 (Lee Chun Yang) - Data Resampling, Machine Learning Models
 
 ## Practical Motivation
 We are often told that we need at least 7 hours of sleep to be well-rested. However, we often still feel tired and unsufficiently rested even after sleeping for at least 7 hours. Are other variables apart from the duration of our sleep affecting our sleep quality?
