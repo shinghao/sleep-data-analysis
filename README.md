@@ -1,4 +1,5 @@
 # Welcome to sleep-data-analysis repository
+This is our Mini-Project for CS1015 (Introduction to Data Science and Artificial Intelligence).
 
 ## Contributors
 - @shinghao - Data Preparation & Cleaning, Exploratory Analysis
