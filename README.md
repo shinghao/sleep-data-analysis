@@ -14,7 +14,7 @@ We are often told that we need at least 7 hours of sleep to be well-rested. Howe
 We will only use data where the person has slept for at least 7 hours.
 
 ## Dataset Source
-The dataset we will be using is the Sleep Data dataset created by Dana Diotte and shared on Kaggle. The sleep data dataset consists only of Dana Diotte's own sleep information which he accquired between 2014-2018 and collected through the Sleep Cycle app from Northcube on iOS. The dataset can be found here: https://www.kaggle.com/danagerous/sleep-data
+The dataset we will be using is the Sleep Data dataset created and shared by Dana Diotte on Kaggle. The sleep data dataset consists only of Dana Diotte's own sleep information which he accquired between 2014-2018 and collected through the Sleep Cycle app from Northcube on iOS. The dataset can be found here: https://www.kaggle.com/danagerous/sleep-data
 
 ## Machine Learning Models Used
 1. Linear Regression
