@@ -42,7 +42,7 @@ The dataset we will be using is the Sleep Data dataset created and shared by Dan
 ## What Did We Learn?
 - Random Forest Model
 - Polynomial Regression
-- Sampling data with K-Foldss and repeated K-Folds
+- Sampling data with K-Folds and repeated K-Folds
 - Representing data in time-series
 
 ## References
