@@ -37,7 +37,7 @@ The dataset we will be using is the Sleep Data dataset created and shared by Dan
 - Create a more balanced response variable through methods such as resampling. This is because for our model, the response variable, `Sleep quality`, is more skewed towards the right (representing higher sleep quality).
 - Collect more data as the data may become too small to measure the actual accuracy of the models. 
 - Since this data is only about one person, it may be biased and hard to make accurate analysis of the information being given. It will be better to have a specific range/group of sleep information to give.(Continuation of point 2) Or a specific research centre/sleep centre of information to analyse will generate more interesting insights. 
-- Consider other variables such as sleep environment or sleep problems such as insomnia. 
+- Since there is a lack of correlation for the variables we used, we recommend considering other variables that could also affect sleep quality
 
 ## What Did We Learn?
 - Random Forest Model
