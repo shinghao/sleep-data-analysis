@@ -21,6 +21,10 @@ The dataset we will be using is the Sleep Data dataset created and shared by Dan
 1. Linear Regression
 2. Random Forest
 3. Polynomial Regression
+4. K-nearest Neighbour
+5. Gradient Boosting Decision Tree
+6. Histogram-Based Gradient Boosting
+7. AdaBoost
 
 ## Sampling Methods
 1. Random Sampling
@@ -48,6 +52,10 @@ The dataset we will be using is the Sleep Data dataset created and shared by Dan
 - https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html#sklearn.ensemble.HistGradientBoostingRegressor
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostRegressor.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RepeatedKFold.html
