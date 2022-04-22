@@ -2,7 +2,7 @@
 This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence).
 
 ## Contributors
-- [shinghao](https://github.com/shinghao) (Soh Shing Hao) - Data Preparation & Cleaning, Exploratory Analysis
+- [shinghao](https://github.com/shinghao) (Soh Shing Hao) - Data Preparation & Cleaning, Exploratory Analysis and Presentation
 - [leechunyang98](https://github.com/leechunyang98) (Lee Chun Yang) - Data Resampling, Machine Learning Models
 - [czhi-heng](https://github.com/czhi-heng) (Cheung Zhi Heng) - Data Analysis, Organisation and Presentation 
 
@@ -37,7 +37,7 @@ The dataset we will be using is the Sleep Data dataset created and shared by Dan
 - Create a more balanced response variable through methods such as resampling. This is because for our model, the response variable, `Sleep quality`, is more skewed towards the right (representing higher sleep quality).
 - Collect more data as the data may become too small to measure the actual accuracy of the models. 
 - Since this data is only about one person, it may be biased and hard to make accurate analysis of the information being given. It will be better to have a specific range/group of sleep information to give.(Continuation of point 2) Or a specific research centre/sleep centre of information to analyse will generate more interesting insights. 
-- We do need to consider external factors and internal factors towards the person, to have a more accurate information. Such as sleep environment or sleep problems like insomnia which can determine sleep quality more accurately. 
+- Consider other variables such as sleep environment or sleep problems such as insomnia. 
 
 ## What Did We Learn?
 - Random Forest Model
