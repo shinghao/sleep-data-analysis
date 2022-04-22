@@ -28,6 +28,10 @@ The dataset we will be using is the Sleep Data dataset created and shared by Dan
 3. Repeated K-Folds
 
 ## Conclusion
+- More sleep cycles and having a stressful day results in better your sleep quality
+- Remaining variables do not have much correlation to sleep quality
+- Out of the 3 models we used, linear Regression produced the best results 
+- However, since all 3 models produced low accuracy, we conclude that sleep quality cannot be accurately predicted with just sleep cycle, time going to sleep & lifestyle. To accurately predict sleep quality, other variables or models have to be explored.
 
 ## Recommendations
 - Create a more balanced response variable through methods such as resampling. This is because for our model, the response variable, `Sleep quality`, is more skewed towards the right (representing higher sleep quality).
