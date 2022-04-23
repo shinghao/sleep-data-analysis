@@ -2,7 +2,7 @@
 This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence).
 
 ## Contributors
-- [shinghao](https://github.com/shinghao) (Soh Shing Hao) - Data Preparation & Cleaning, Exploratory Analysis and Presentation
+- [shinghao](https://github.com/shinghao) (Soh Shing Hao) - Data Preparation & Cleaning, Exploratory Analysis, Presentation
 - [leechunyang98](https://github.com/leechunyang98) (Lee Chun Yang) - Data Resampling, Machine Learning Models
 - [czhi-heng](https://github.com/czhi-heng) (Cheung Zhi Heng) - Research, Data Analysis, Video Recording and Editing, Presentation
 
