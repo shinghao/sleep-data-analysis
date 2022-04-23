@@ -45,6 +45,8 @@ The dataset we will be using is the Sleep Data dataset created and shared by Dan
 - Encoding Categorical data with Label Encoding
 - Sampling data with K-Folds and repeated K-Folds
 - Representing data in time-series
+- Experimented with other machine learning models - Gradient Boosting Decision Tree, Histogram-Based Gradient Boosting, AdaBoost, K-Nearest Neighbour
+
 
 ## References
 - https://towardsdatascience.com/getting-started-with-xgboost-in-scikit-learn-f69f5f470a97 
